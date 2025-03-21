@@ -1,5 +1,7 @@
 # make_autoTweet
 this make automation workflow is able to tweet automatically based on the news link you provide.
+<img width="894" alt="Screenshot 2025-03-21 at 13 58 49" src="https://github.com/user-attachments/assets/4eb5c0b0-35b4-453f-825a-23afaad28a7a" />
+
 To use this workflow, simpliy import the json file into Make Scenario, then you have to apply API for the following service:
 1. Google Sheets API from Google Cloud
 2. OpenAI API (or any other LLM such Perplexity or Google Gemini, remember you have to top up some money first!)
